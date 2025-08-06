@@ -4,9 +4,9 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'Methmal P — Entrepreneur | Innovator | MVP Creator ',
+  description: 'Passionate about entrepreneurship and building scalable business solutions. Helping startups and innovators validate ideas and launch MVPs with cutting-edge technology and creative strategy.',
+ 
 }
 
 export default function RootLayout({
